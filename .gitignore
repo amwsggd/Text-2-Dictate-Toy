@@ -1,0 +1,19 @@
+# Android Studio
+.idea/
+.gradle/
+build/
+local.properties
+
+# Gradle
+**/build/
+**/out/
+.gradle/
+build/
+
+# Log files
+hs_err_pid*.log
+
+# Other
+*.iml
+.DS_Store
+
